@@ -22,31 +22,19 @@ Risk Mitigation – Uncover suspected fraud patterns and operational risks durin
 The solution is structured into two analytical phases:
 
 Phase I: Data Engineering (Python)
-
 Raw CSV ingestion using Pandas
-
 Data cleaning, normalization, and feature engineering
-
 Removal of PII for privacy and performance
-
 Creation of derived logistics metrics (e.g., delivery delay variance)
-
 Migration to PostgreSQL using SQLAlchemy
 
 Phase II: Data Analysis (SQL)
-
 Advanced SQL queries for:
-
 Logistics performance
-
 Financial health assessment
-
 Customer segmentation & lifetime value
-
 Fraud risk analysis
-
 Time-series growth and seasonality trends 
-
 DC Supply Chain - Report
 
 🔍 Key Analytical Insights
