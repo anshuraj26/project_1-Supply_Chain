@@ -50,6 +50,7 @@ Time-series growth and seasonality trends
 DC Supply Chain - Report
 
 🔍 Key Analytical Insights
+
 🚚 Logistics & Operations
 
 Certain European cities exhibit high delivery unpredictability
@@ -90,14 +91,6 @@ SQL (Advanced analytics & window functions)
 
 Jupyter Notebook
 
-GitHub for version control
-
-📂 Repository Structure
-├── DCSC.ipynb                # Data cleaning & ETL pipeline
-├── DC Supply Chain.sql       # Advanced SQL analytical queries
-├── DCSupplyChainDataset.csv # Raw dataset
-├── Report.pdf               # Technical & analytical findings
-└── README.md                # Project documentation
 
 📊 Use Case Relevance
 
